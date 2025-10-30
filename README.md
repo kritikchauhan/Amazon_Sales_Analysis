@@ -32,3 +32,15 @@ It focuses on identifying key metrics such as revenue growth, top-selling produc
 ## Dashboard Snapshot
 ![Dashboard Screenshot](amazon-dashboard-snapshot.png)
 
+
+---
+
+## 🚀 How to Use
+1. Download the `amazonsales.pbix` file from this repository  
+2. Open it in **Power BI Desktop**  
+3. Click **Refresh** to load or update data  
+4. Interact with the dashboard filters and visuals  
+
+---
+
+
