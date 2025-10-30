@@ -29,7 +29,7 @@ It focuses on identifying key metrics such as revenue growth, top-selling produc
 
 ---
 
-## Dashboard Snapshot
+## 📊 Dashboard Snapshot
 ![Dashboard Screenshot](amazon-dashboard-snapshot.png)
 
 
